@@ -10,7 +10,7 @@
     <img src="https://komarev.com/ghpvc/?username=hoang-nqm&style=flat-square&color=blue" alt=""/>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoang-nqm&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoang-nqm&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
