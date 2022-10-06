@@ -9,7 +9,7 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=hoang-nqm&style=flat-square&color=blue" alt=""/>
 </div>
-<div align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoang-nqm&show_icons=true&theme=tokyonight)
-</div>
+
 
